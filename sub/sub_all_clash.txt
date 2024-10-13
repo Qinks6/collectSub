@@ -1,5 +1,3 @@
-https://cloudcat.top/api/v1/client/subscribe?token=9ce4eed8746e59bd75bf732867c0c309
-https://dy.smjc.top/api/v1/client/subscribe?token=5bd7e01f6a299be186e5cd44f9c6c150
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://ttc01.xyz/api/v1/client/subscribe?token=de369ae7689b67e8cc6267ea5b020372
-https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
