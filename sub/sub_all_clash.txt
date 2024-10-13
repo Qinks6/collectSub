@@ -1,9 +1,4 @@
-https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
-https://cloudcat.top/api/v1/client/subscribe?token=9ce4eed8746e59bd75bf732867c0c309
-https://dy.smjc.top/api/v1/client/subscribe?token=629580d2c5cb6856d3ce10a7e3371ce7&amp;flag=clash
-https://free.ninecloud.co/api/v1/client/subscribe?token=afe275d64d5b2295be847cf4fafe5428
-https://gbtgurl.me/api/v1/client/subscribe?token=546e4735dbf123f782dad5c4729369da
-https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://pavo.eu.org/api/v1/client/subscribe?token=54c92d76644f311367ca174cfda3aac3
-https://subs.zeabur.app/clash
+https://mojie.app/api/v1/client/subscribe?token=0ce896d17bde60480c9e1a8bb540b29e
+https://node.yifang02.men/link/ryh0DwsGEWclH26m?sub=4
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
