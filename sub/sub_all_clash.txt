@@ -1,7 +1,8 @@
-https://apisub.mcwy.xyz/api/v1/client/subscribe?token=89424b5caa87f0bfc5d05da83c330764
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bHl6RldjV3draTAyMjlHSXR2VW9haFk0ZE9iNWQ3eTVyVEl5RjlqQWJLMlliY2NkQUxVcG5wemFKN0JEdjFsbTZKTzVvS1lvenVCMW9TQWZTcW8vWStWZ3VUQmF6anJwMksrbXloTGhWS25KRWY2cUFVWT0
-https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://gbtgurl.me/api/v1/client/subscribe?token=5bb62dafaf4567b4113296e7f3b2a3ad
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://api.xqc.best/api/v1/client/subscribe?token=116ea138d237fe0cfa8e51c114062aae
+https://doata.net/link/kEyfKaMn02qL4Txt?sub=3
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
+https://qingchayun.icu/api/v1/client/subscribe?token=80418297fba5a4f4ac7f21cdcf847e6d
+https://qyoo.aibvs.cn/api/v1/client/subscribe?token=d1238234772e17cc53229bcbb74980ed
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
+https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
