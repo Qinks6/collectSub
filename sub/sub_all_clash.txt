@@ -1,13 +1,5 @@
-https://cloudcat.top/api/v1/client/subscribe?token=9ce4eed8746e59bd75bf732867c0c309
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
 https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
 https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
-https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://subscription-gov.lianjiasub.work/api/v1/client/subscribe?token=d11a89780236b657d6de7b055ffe6f63
+https://pavo.eu.org/api/v1/client/subscribe?token=4336f829537b98be8cb36254a33ad528
+https://qq.xlm.plus/api/v1/client/subscribe?token=05d01f2d3e940fc989b3bd9ffb41f0cd
 https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
