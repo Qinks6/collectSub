@@ -1,11 +1,5 @@
-https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://a.jiedianxielou.workers.dev/api/v1/client/subscribe?token=UjBGOXVrdFBKYzlqdnBCdThOZUx1b2xoT1loVW41MU0vbDFzbTl5ZmdUN2JqUkJNVW5wT3BuU2hZWTdPMGdmN28wRmN2enExMjR0ejBTU0gvZVllQ1RLWkhRVHpyN0tIV2kyMjBpNGdNQT09
-https://followcloud.space/api/v1/client/subscribe?token=22f152eb816e803a7aa657ef10e084bd
-https://dzpd.jiedianxielou.workers.dev/?clash=1
-https://l.db-link01.top/link/mqQ5gNhWbR2TBtSo?list=shadowrocket
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://ap.niaodi.top/niao?token=cdaa1b1f44005a4ed020ea98e001d0c5
+https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0708qf9?wkalYsYKGuePe5ry4yXcCFbL2BZtEQBvM4jsHdK6lPswFg?Z6z/K0hzuAk9CYZRPo5O7ZptTUHxD3s2Kj4mRe0Ww==
 https://l.db-link01.top/link/1H9b3ZbQHuRbeGUP?clash=1
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
-https://www.sstank.top/link/u6n48bednngklddq?sub=3
+https://subscribe.insidergame.xyz/api/v1/client/subscribe?token=b8c7f5d1cec04b203b0e8f50c6c56a3c
