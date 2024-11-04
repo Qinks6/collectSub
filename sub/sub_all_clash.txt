@@ -1,9 +1,4 @@
-https://api.fenghuolun.xyz/api/v1/client/subscribe?token=87ac36beeb72ab1d00e20ea4646f7a93
-https://api1.fzdwf.top/api/v1/client/subscribe?token=67706c7a66b91ab14742f3e54771037f
-https://cloudfisher.net/jsk34?token=77adb97705db4fbc729a9cfcd5808db0
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=8ecf59b49c4a8893221934d0fc2c1986
-https://ipngc.no-mad-world.club/link/nnaCD6oVR3L5GrBq?shadowrocket=1
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://ttc01.xyz/api/v1/client/subscribe?token=de369ae7689b67e8cc6267ea5b020372
-https://xs.mashiroshina.top/api/v1/client/subscribe?token=307cc562689201ef52ffde46732b6b9d
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=0760bb28173ccd9e23439f0fb97f834b
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://l.db-link01.top/link/mqQ5gNhWbR2TBtSo?list=shadowrocket
+https://su.xfjhchr.com:8888/api/v1/client/subscribe?token=278ca840bd2ab61ed088bb34f6eada4b
