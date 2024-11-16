@@ -1,6 +1,7 @@
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev/
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://vot.278986.xyz/api/v1/client/subscribe?token=5596c41f1db48da17b8271aa6975016b
 https://mc.jiedianxielou.workers.dev
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://vot.278986.xyz/api/v1/client/subscribe?token=5596c41f1db48da17b8271aa6975016b
+https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
+https://get.ninesub.us.kg/api/v1/client/subscribe?token=9be727d513abd796221c19d6416bd31c
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
