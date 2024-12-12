@@ -1,6 +1,6 @@
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
-https://s.33y.run/v3/subscr?id=59aefa2d968a472bbbe0905bb3ae492e
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-http://gbtgurl01.org/api/v1/client/subscribe?token=36e8a67632a8d0f0c0eea58b099a0826
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://569cdn.1010520.click/api/v1/client/subscribe?token=781d7319768d475772927420bc2a0274
