@@ -1,4 +1,4 @@
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=836add593609211e0062c535356b5533
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://www.louwangzhiyu.xyz/api/v1/client/subscribe?token=8d4b6141011de1d68e5aad95d6a61329
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
+https://huaxia.tcekx.cn/huaxia/max?token=b53d1eb5a3aea38b774f1ded63d0f121
